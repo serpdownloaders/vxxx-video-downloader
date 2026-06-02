@@ -1,0 +1,224 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/vxxx-downloader",
+  "serply_link": "https://serp.ly/vxxx-downloader",
+  "app_name": "Vxxx Video Downloader",
+  "short_description": "Download & Save Vxxx Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Downloader for Vxxx is a browser extension candidate built around a verified Vxxx target route. It uses a button-driven workflow so you can save media directly from the Vxxx player without copying links or using third-party services. The extension is designed for Vxxx viewers who want a simple, in-browser save option.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/vxxx-downloader-fullscreen-01-d82310fdaa.webp",
+    "https://apps.serp.co/media/optimized-products/vxxx-downloader-fullscreen-02-04b2919cc3.webp",
+    "https://apps.serp.co/media/optimized-products/vxxx-downloader-fullscreen-03-478292c45a.webp",
+    "https://apps.serp.co/media/optimized-products/vxxx-downloader-fullscreen-04-ad3c7701f9.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Is this extension release-ready?",
+      "answer": "No. The Vxxx downloader is a generated-stub candidate pending adapter and extraction QA. The target row is verified, but final implementation details are still under review."
+    },
+    {
+      "question": "What makes this different from generic downloaders?",
+      "answer": "The extension is built around a verified Vxxx target route with an exact handoff URL, so it connects directly to the Vxxx player instead of guessing page elements."
+    },
+    {
+      "question": "Which Vxxx URLs are supported?",
+      "answer": "The extension covers Vxxx domain patterns including the primary site and subdomains."
+    },
+    {
+      "question": "Do I need any technical skills to use it?",
+      "answer": "No. The button-driven workflow lets you save videos with a few clicks from the player page."
+    },
+    {
+      "question": "Will this work with every Vxxx video?",
+      "answer": "Coverage depends on the specific page structure. The extension is tested against the primary route, but individual videos may vary."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "No extra domain permissions required"
+    },
+    {
+      "name": "",
+      "description": "No extra host permissions beyond Vxxx"
+    },
+    {
+      "name": "",
+      "description": "I see an error about permissions."
+    },
+    {
+      "name": "",
+      "description": "The extension only needs access to Vxxx pages. Make sure no other extensions are blocking its permissions."
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Verified target support for Vxxx pages",
+    "Button-driven download workflow from the player",
+    "Exact route handoff for reliable detection",
+    "No extra domain permissions required",
+    "Transparent status with pending extraction QA",
+    "Button-driven download flow from the Vxxx player",
+    "Exact route handoff for reliable media detection",
+    "Match coverage for Vxxx domain patterns",
+    "No extra host permissions beyond Vxxx",
+    "Clear QA handoff with a primary test route",
+    "Transparent readiness status",
+    "Simple in-browser installation"
+  ],
+  "content": {
+    "why": [
+      "Many Vxxx viewers want to save videos for offline viewing but find generic download tools unreliable. Most downloaders ignore the actual Vxxx player structure and require manual source inspection, which is time-consuming and inconsistent.",
+      "Vxxx Downloader is built around a verified Vxxx target route with an exact handoff URL. Instead of guessing which page element holds the media, the extension uses a button-driven workflow that connects directly to the Vxxx player. This means you get a consistent save experience every time, without needing technical know-how or extra tools."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Vxxx and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Open Vxxx in your browser and navigate to the video you want to save.",
+      "Let the page load fully and start video playback.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Wait for the extension to detect the media stream from the player.",
+      "Select your preferred quality option from the available list.",
+      "Click the download button to begin saving the file.",
+      "Wait for the export process to complete.",
+      "Save the MP4 file to your desired location."
+    ],
+    "supported_formats": [
+      "Input: Media streams detected from Vxxx video pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Vxxx viewers who want a browser-native save workflow",
+      "Users who prefer button-driven tools over manual source inspection",
+      "People looking for a dedicated Vxxx downloader rather than a generic tool",
+      "QA teams preparing a Vxxx-specific extension handoff"
+    ],
+    "use_cases": [
+      "Saving Vxxx videos for offline viewing",
+      "Archiving favorite clips from the Vxxx library",
+      "Building a local collection of Vxxx content",
+      "Testing Vxxx download workflows during QA",
+      "Preparing Vxxx-specific extension handoff validation"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any media on the Vxxx page. Make sure the video player is fully loaded and playback has started before opening the extension popup.",
+      "The download button does not appear. Refresh the Vxxx page and try again. If the issue persists, check that you are on a supported Vxxx route.",
+      "The saved file will not play on my device. Try a different media player that supports MP4 files. Some players may need codec updates.",
+      "I see an error about permissions. The extension only needs access to Vxxx pages. Make sure no other extensions are blocking its permissions.",
+      "The extension popup is blank. Reload the Vxxx page and the extension, then try again. If the problem continues, reinstall the extension from the latest release."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Vxxx page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "The extension is a candidate build pending final extraction QA",
+      "Store and release artifacts are not yet confirmed"
+    ],
+    "about": [
+      "Vxxx is a video hosting platform that offers a variety of adult content. This extension helps Vxxx viewers save videos directly from the player using a simple button-driven workflow."
+    ]
+  },
+  "serpx_link": "https://serpx.link/vxxx-downloader",
+  "github_topics": [
+    "vxxx-download",
+    "vxxx-downloader",
+    "vxxx-video-downloader",
+    "vxxx-video-downloader-online",
+    "vxxx-video-downloader-mac",
+    "vxxx-video-downloader-window",
+    "vxxx-video-downloader-free",
+    "vxxx-video-downloader-extension",
+    "vxxx-video-downloader-app",
+    "vxxx-video-downloader-chrome",
+    "vxxx-video-downloader-from-url",
+    "how-to-download-vxxx-videos",
+    "how-to-download-vxxx-videos-mac",
+    "how-to-download-vxxx-videos-windows",
+    "how-to-download-vxxx-videos-online",
+    "how-to-download-vxxx-videos-free",
+    "how-to-download-from-vxxx",
+    "how-to-download-videos-from-vxxx",
+    "download-vxxx-videos",
+    "vxxx-video-tutorial",
+    "save-vxxx-videos",
+    "vxxx-video-content-saver",
+    "how-to-download-vxxx-videos-for-free"
+  ],
+  "hashtags": [
+    "#VxxxDownload",
+    "#VxxxDownloader",
+    "#VxxxVideoDownloader",
+    "#VxxxVideoDownloaderOnline",
+    "#VxxxVideoDownloaderMac",
+    "#VxxxVideoDownloaderWindow",
+    "#VxxxVideoDownloaderFree",
+    "#VxxxVideoDownloaderExtension",
+    "#VxxxVideoDownloaderApp",
+    "#VxxxVideoDownloaderChrome",
+    "#VxxxVideoDownloaderFromURL",
+    "#HowToDownloadVxxxVideos",
+    "#HowToDownloadVxxxVideosMac",
+    "#HowToDownloadVxxxVideosWindows",
+    "#HowToDownloadVxxxVideosOnline",
+    "#HowToDownloadVxxxVideosFree",
+    "#HowToDownloadFromVxxx",
+    "#HowToDownloadVideosFromVxxx",
+    "#DownloadVxxxVideos",
+    "#VxxxVideoTutorial",
+    "#SaveVxxxVideos",
+    "#VxxxVideoContentSaver",
+    "#HowToDownloadVxxxVideosForFree"
+  ],
+  "youtube_tags": [
+    "Vxxx Download",
+    "Vxxx Downloader",
+    "Vxxx Video Downloader",
+    "Vxxx Video Downloader Online",
+    "Vxxx Video Downloader Mac",
+    "Vxxx Video Downloader Window",
+    "Vxxx Video Downloader Free",
+    "Vxxx Video Downloader Extension",
+    "Vxxx Video Downloader App",
+    "Vxxx Video Downloader Chrome",
+    "Vxxx Video Downloader From URL",
+    "How To Download Vxxx Videos",
+    "How To Download Vxxx Videos Mac",
+    "How To Download Vxxx Videos Windows",
+    "How To Download Vxxx Videos Online",
+    "How To Download Vxxx Videos Free",
+    "How To Download From Vxxx",
+    "How To Download Videos From Vxxx",
+    "Download Vxxx Videos",
+    "Vxxx Video Tutorial",
+    "Save Vxxx Videos",
+    "Vxxx Video Content Saver",
+    "How To Download Vxxx Videos For Free"
+  ]
+}
